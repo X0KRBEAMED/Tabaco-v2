@@ -2,12 +2,7 @@
   <h1>🟢Tabaco V2 Discord Multitool🟢</h1>
         <p>🟢Discord Tool made bye a rookie python scripter🟢<p>
   <p>✏️For Educational Purpose Only +  i just got board and made a tool i do this for fun i dont take it seriously✏️</p>
- 
 
-
-🚧EVERYONE I HAVE DISCONTINUED MAKING THIS TOOL DUE TO THE FACT I CANT BE ASKED DO WHAT U WANT WITH IT STEAL MY CODE IDC🚧
-
-🚧I AM NOT RESPONSIBLE FOR ANY DAMEGE DELT WITH THIS SCRIPT LIKE BRO AINT MY FAULT SOME SCRIPT SKID DOXED U WITH THIS🚧
 
 ![output-onlinegiftools](https://user-images.githubusercontent.com/129594730/231024879-abf1939a-03ad-4dae-ac00-da2e97eb9528.gif)
 
